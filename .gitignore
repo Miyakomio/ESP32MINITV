@@ -1,0 +1,22 @@
+# PlatformIO build files
+.pio/
+**/.pio/
+compile_commands.json
+
+# IDE state
+.vscode/
+**/.vscode/
+
+# Generated binaries and archives
+*.bin
+*.elf
+*.map
+*.apk
+
+# Temporary files
+~$*
+*.log
+
+# OS metadata
+.DS_Store
+Thumbs.db
